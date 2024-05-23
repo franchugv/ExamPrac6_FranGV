@@ -120,7 +120,7 @@ namespace ExamPrac6_FranGV.API
         /// <summary>
         /// Validar Existencia del fichero
         /// </summary>
-        /// <param name="fichero">Nombre del fuchero o usuario</param>
+        /// <param name="fichero">Nombre del fichero o usuario</param>
         /// <returns>En caso de que no exista devolverá un false, si existe será true</returns>
         public static bool VerificarExistenciaFichero(string fichero)
         {
